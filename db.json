@@ -1,0 +1,59 @@
+[
+    
+    
+ 
+ {
+   "rating": 5.0,
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+     "sum_one": "12 000 руб",
+     "percent": "1%",
+  "url": "https://google.com"
+         }
+    
+    
+,
+
+
+ {
+   "rating": 4.5,
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    	"sum_one": "12 000 руб",
+      "percent": "0%",
+   "url": "https://www.homecredit.ru"
+  
+    }
+    
+ ,
+ {
+      "rating": 4.5,
+  "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+	"sum_one": "12 000 руб",
+  "percent": "0%",
+  "url": "https://google.com"
+        
+  
+    }
+    
+    
+,
+
+
+ {
+   "rating": 4.7,
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+	"sum_one": "12 000 руб",
+  "percent": "1%",
+   "url": "https://www.homecredit.ru"
+  
+    }
+    
+
+
+
+
+ 
+   
+   
+  
+  
+]
