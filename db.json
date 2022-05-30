@@ -5,12 +5,12 @@
     {
         
       
-        "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+        "image_url": "https://pr-bank.ru/images/upload/vestabank-logo_thumb256.jpg",
         "rating": 5.0,
         "sum_one": "до 80 000 руб",
        
         "percent": "1%",
-        "url": "https://www.homecredit.ru"
+        "url": "https://pr-bank.ru/bank/vestabank/"
     },
     
        
@@ -18,29 +18,12 @@
  {
       
       
-        "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+        "image_url": "https://acdn.tinkoff.ru/static/documents/30dd69e2-8364-4984-9cd4-92d5d9c85aba.png",
         "rating": 4.0,
         "sum_one": "до 15 000 руб",
        
         "percent": "0%",
-        "url": "https://www.homecredit.ru"
-    },
-
-    
-    
-    
-    
-    
-    
-  {
-       
-      
-        "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-        "rating": 5.0,
-        "sum_one": "до 100 000 руб",
-       
-        "percent": "0%",
-        "url": "https://www.homecredit.ru"
+        "url": "https://pr-bank.ru/bank/tinkoff-bank/"
     }
 
 
