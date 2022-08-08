@@ -253,10 +253,10 @@
 
 
 
-{  "aage": "21-70",
+{ 
               
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/creps.png",
-        "rating": 4,
+        "rating": 4.0,
         "sum_one": "до 30 000 руб.",
        
         "percent": "0%",
@@ -266,9 +266,9 @@
 
 {
         
-        "aage": "21-70",
+        
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ssmm.png",
-        "rating": 5,
+        "rating": 5.0,
         "sum_one": "до 30 000 руб.",
        
         "percent": "0%",
@@ -277,10 +277,10 @@
 
 
 {
-          "aage": "21-70",
+         
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ezaemg.png",
-        "rating": 5,
+        "rating": 5.0,
         "sum_one": "до 15 000 руб.",
        
         "percent": "0%",
@@ -291,9 +291,9 @@
 
  {
         
-        "aage": "21-70",
+       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/nadoeg.png",
-        "rating": 4,
+        "rating": 4.0,
         "sum_one": "до 30 000 руб.",
        
         "percent": "0%",
@@ -302,10 +302,10 @@
 
 
 
-{  "aage": "21-70",
+{  
               
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/paay.png",
-        "rating": 5,
+        "rating": 5.0,
         "sum_one": "до 30 000 руб.",
        
         "percent": "1%",
@@ -313,20 +313,20 @@
     } ,
 
 
- {  "aage": "21-70",
+ { 
               
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sevens.png",
-        "rating": 5,
+        "rating": 5.0,
         "sum_one": "до 30 000 руб.",
        
         "percent": "0%",
         "url": "https://trkleads.ru/click/bacb8c21358a3427da3ce00e150aa7d5?aff_sub1=bbi"
     } ,
 
- {  "aage": "21-70",
+ { 
               
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/creditog.png",
-        "rating": 5,
+        "rating": 5.0,
         "sum_one": "до 15 000 руб.",
        
         "percent": "1%",
