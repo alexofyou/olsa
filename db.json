@@ -209,7 +209,15 @@
 
 
 
-
+ { 
+              
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sevens.png",
+        "rating": 5.0,
+        "sum_one": "до 30 000 руб.",
+       
+        "percent": "0%",
+        "url": "https://trkleads.ru/click/bacb8c21358a3427da3ce00e150aa7d5?aff_sub1=bbi"
+    } ,
    
 
 
@@ -288,39 +296,43 @@
     },
 
 
-
-
-
-{  
-              
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/paay.png",
-        "rating": 5.0,
-        "sum_one": "до 30 000 руб.",
-       
-        "percent": "1%",
-        "url": "https://trkleads.ru/click/c24c18f9cd89c00a8801ed88ea5c04d0?aff_sub1=bbi"
-    } ,
-
-
- { 
-              
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sevens.png",
+{
+         
+      
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/diska.png",
         "rating": 5.0,
         "sum_one": "до 30 000 руб.",
        
         "percent": "0%",
-        "url": "https://trkleads.ru/click/bacb8c21358a3427da3ce00e150aa7d5?aff_sub1=bbi"
-    } ,
+        "url": "https://trkleads.ru/click/7819f1d402f445e6045772867bab2ec4?aff_sub1=bbi"
+    },
 
- { 
-              
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/creditog.png",
+{
+         
+      
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",
         "rating": 5.0,
-        "sum_one": "до 15 000 руб.",
+        "sum_one": "до 30 000 руб.",
+       
+        "percent": "0%",
+        "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=bbi"
+    },
+
+
+{
+         
+      
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/smartcas.png",
+        "rating": 5.0,
+        "sum_one": "до 30 000 руб.",
        
         "percent": "1%",
-        "url": "https://trkleads.ru/click/b1b102a095691aafd303d750bbd36a77?aff_sub1=bbi"
-    } ,
+        "url": "https://trkleads.ru/click/9eeaeaba00bdbd58bc6f024aee7515a7?aff_sub1=bbi"
+    },
+
+
+
+
 
 
    
