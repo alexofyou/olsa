@@ -1,0 +1,31 @@
+[{
+    "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+    "company_name": "Аккадо",
+    "description": "Астро Займ - это идеальный вариант для краткосрочных финансовых решений, предоставляющий вам деньги сегодня без дополнительных затрат завтра.",
+    "loan_amount":"до 30 000 руб",
+    "interest_rate": "0 % в день",
+    "payment_methods": ["МИР", "VISA"],
+   "url": "https://example.com/"
+  }
+,
+
+{
+    "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    "company_name": "Альфа банк",
+    "description": "100 дней без % по кредиту на покупки и снятие наличных. Кредитный лимит до 500 000 руб",
+    "loan_amount":"до 20 000 руб",
+    "interest_rate": "0 % в день",
+    "payment_methods": ["МИР", "VISA"],
+   "url": "https://example.com/"
+  }
+  ,
+
+{
+    "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+    "company_name": "Альфа банк",
+    "description": "100 дней без % по кредиту на покупки и снятие наличных. Кредитный лимит до 500 000 руб",
+    "loan_amount":"до 40 000 руб",
+    "interest_rate": "0 % в день",
+    "payment_methods": ["МИР", "VISA"],
+   "url": "https://example.com/"
+  }]
