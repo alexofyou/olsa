@@ -5,7 +5,7 @@
     "loan_amount":"до 30 000 руб",
     "interest_rate": "0 % в день",
     "payment_methods": ["МИР", "VISA"],
-   "url": "https://example.com/"
+   "url": "https://www.cbr.ru/finorg/foinfo/?ogrn=1245600010545"
   }
 ,
 
@@ -16,7 +16,7 @@
     "loan_amount":"до 20 000 руб",
     "interest_rate": "0 % в день",
     "payment_methods": ["МИР", "VISA"],
-   "url": "https://example.com/"
+   "url": "https://www.cbr.ru/finorg/foinfo/?ogrn=1232700015778"
   }
   ,
 
@@ -27,5 +27,5 @@
     "loan_amount":"до 40 000 руб",
     "interest_rate": "0 % в день",
     "payment_methods": ["МИР", "VISA"],
-   "url": "https://example.com/"
+   "url": "https://www.cbr.ru/finorg/foinfo/?ogrn=1137746702367"
   }]
